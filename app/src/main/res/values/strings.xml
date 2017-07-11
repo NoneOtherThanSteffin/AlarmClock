@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Alarm Clock</string>
+    <string name="typeText">Hello World</string>
+    <string name="submit">Submit</string>
+</resources>
